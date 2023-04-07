@@ -8,4 +8,4 @@ def solution(x: np.array) -> float:
     # Измените код этой функции
     # Это будет вашим решением
     # Не меняйте название функции и её аргументы
-    return np.log(x - 107).mean()
+    return np.log(x - 187).mean()
